@@ -9,3 +9,5 @@ def check(n):
     return "is prime"
 
 print(check(17))  
+
+print(check(38))
