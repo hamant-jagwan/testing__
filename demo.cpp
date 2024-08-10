@@ -11,5 +11,7 @@ int main(){
     cout << "meri maa" << endl;
     cout << "hello doston" << endl;
     cout << "mere pita ji" << endl;
+    cout << "hello doston" << endl;
+    
     return 0;
 }
