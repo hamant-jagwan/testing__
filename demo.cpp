@@ -8,5 +8,6 @@ int main(){
     for(int i =0 ; i <n;i++){
         cout<< "the value in the index " << i << " is " << arr[i]<<endl;
     }
+    cout << "hello doston" << endl;
     return 0;
 }
